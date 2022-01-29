@@ -1,4 +1,4 @@
-# Team_Profile_Generator
+Here is my attempt at generatoring a profile generator using Node and Jest as packages.
 
 # 10 Object-Oriented Programming: Team Profile Generator
 
